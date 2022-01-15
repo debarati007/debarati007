@@ -6,3 +6,5 @@
 - 🌱 I’m currently learning docker, kubernetes, azure, javascript.
 - 💞️ I’m looking to collaborate on anything cool and interesting.
 - 📫 How to reach me : [Debarati Banerjee](https://www.linkedin.com/in/debarati-banerjee-924a23124/)(LinkedIn). 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=debarati007&show_icons=true&theme=gotham" alt="DebaratiBanerjee" /></p>
+
